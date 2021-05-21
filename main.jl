@@ -12,3 +12,5 @@ end
 p = foo(cars, "USA")
 
 p |> save("foo.png")
+
+j = 1
